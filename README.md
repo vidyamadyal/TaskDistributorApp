@@ -80,6 +80,7 @@ npm start
 - View tasks at `/view-tasks`
 
 ## 📹 Demo Video
-[Watch the full walkthrough](https://drive.google.com/file/d/1xP_W0nuENP2fOowQtkTsRvAFk1chDJHV/view?usp=sharing)
+[Watch the full walkthrough]
+https://drive.google.com/file/d/1xP_W0nuENP2fOowQtkTsRvAFk1chDJHV/view?usp=sharing
 ```
 
