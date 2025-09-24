@@ -4,7 +4,7 @@
 ## ✅ 1. Source Code for the Application
 
 ### 📦 What to Include:
-- Your full project folder:
+- Full project folder:
   ```
   /TaskDistributionApp/
     ├── backend/
@@ -25,10 +25,6 @@
 - Push to GitHub or zip the folder for submission
 
 ---
-
-## ✅ 2. README File with Setup Instructions
-
-Here’s a clean template you can copy into `README.md`:
 
 ```markdown
 # 🧠 Task Distribution System (MERN Stack)
